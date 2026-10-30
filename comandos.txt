@@ -1,0 +1,5 @@
+Ir para:
+
+/mnt/c/Users/guilherme.martins/guilherme/portfolio-meteorologia
+
+sphinx-build -b html docs/source docs/build/html
